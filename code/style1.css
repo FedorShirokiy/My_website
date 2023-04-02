@@ -7,6 +7,7 @@ header {
     padding: 20px 100px;
     display: flex;
 }
+
 .home {
     width: 130px;
     height: 50px;
@@ -18,11 +19,27 @@ header {
     font-size: 1.1em;
     color: #050000;
     font-weight: 500;
-    margin-left: 1100px;
+    margin-left: 100px;
     margin-top: 10px;
     font-family: sans-serif;
     text-decoration: none;
 }  
+
 .website {
     font-family: sans-serif;
+}
+
+.dark {
+    font-family: sans-serif;
+    margin-left: 850px;
+    width: 150px;
+    background: transparent;
+    outline: none;
+    font-size: 1.1em;
+    cursor: pointer;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #050000;
+    height: 50px;
+    margin-top: 10px;
 }
