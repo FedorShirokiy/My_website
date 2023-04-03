@@ -1,11 +1,12 @@
 
 header {
-    position: fixed;
+    position:fixed;
     top: 0;
     left: 0;
     width: 100%;
     padding: 20px 100px;
     display: flex;
+    background-color: white;
 }
 
 .home {
@@ -42,4 +43,19 @@ header {
     color: #050000;
     height: 50px;
     margin-top: 10px;
+}
+
+.abme {
+    font-family: sans-serif;
+    padding-top: 300px;
+    padding-left: 300px;
+}
+
+.abme1 {
+    font-family: sans-serif;
+}
+
+.dev2 {
+    font-family: sans-serif;
+    padding-top: 100 px;
 }
