@@ -64,3 +64,36 @@ body {
     font-family: sans-serif;
     text-decoration: none;
 }
+
+.abme {
+    font-family: sans-serif;
+    padding-top: 300px;
+    padding-left: 300px;
+}
+
+.abme1 {
+    font-family: sans-serif;
+}
+
+.dev2 {
+    font-family: sans-serif;
+    padding-top: 50 px;
+}
+
+footer {
+    font-family: sans-serif;
+    border:#000000 1px;
+    padding-left: 300px;
+    padding-top: 100px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    
+}
+
+.link {
+    font-family: sans-serif;
+    padding-top: 50px;
+    color: black;
+    text-decoration: none;
+    padding-left: 300px; 
+}
