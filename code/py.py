@@ -1,0 +1,5 @@
+n = int(input())
+m = int(input())
+l = str(m * 40 + n * 6)
+h = str(m + n)
+print('Ног ' + l + ', голов ' + h + '.')
